@@ -1,0 +1,7 @@
+MAFFT without COVID : https://mafft.cbrc.jp/alignment/server/spool/_out.200415000624184rejxf4KdzREaCWDAnlwqilsfnormal.html
+
+MAFFT with COVID : https://mafft.cbrc.jp/alignment/server/spool/_out.200415003321278R4yJZ9xU8cqGv1C7o0amVlsfnormal.html
+
+MAFFT of Spikes : https://mafft.cbrc.jp/alignment/server/spool/_ho.200415015926411DKzn8rBWG3wd9YpcMlHJhlsfnormal.html 
+
+MAFFT view of Spikes : https://mafft.cbrc.jp/alignment/server/spool/_ho.200415015926411DKzn8rBWG3wd9YpcMlHJhlsfnormal.html
